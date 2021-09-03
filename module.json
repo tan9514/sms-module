@@ -9,5 +9,7 @@
     ],
     "aliases": {},
     "files": [],
-    "requires": []
+    "requires": {
+        "overtrue/easy-sms": "^1.3"
+    }
 }
