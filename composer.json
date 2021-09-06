@@ -9,7 +9,6 @@
         }
     ],
     "extra": {
-        "module-dir": "Custom",
         "laravel": {
             "providers": [],
             "aliases": {
